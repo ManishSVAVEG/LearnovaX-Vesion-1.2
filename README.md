@@ -340,6 +340,9 @@ LearnovaX is **free and open-source**.
 
 ## Final Notes
 
+IF YOU WANT THIS APP APK 
+LINK HERE: https://expo.dev/accounts/manishkumar0606/projects/learnovax/builds/682b0791-ecda-4d52-80f9-bac4a9ffdeee
+
 Happy Studying! 🎓
 
 Built with ❤️ for students everywhere. No ads. No costs. Just learning.
